@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\Console Apps\\FileSystemLogger\\FileSystemLogger\\FileSystemLogger.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\Console Apps\\FileSystemLogger\\FileSystemLogger\\FileSystemLogger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Console Apps\\FileSystemLogger\\FileSystemLogger\\FileSystemLogger.csproj",
+        "projectName": "FileSystemLogger",
+        "projectPath": "D:\\projects\\Console Apps\\FileSystemLogger\\FileSystemLogger\\FileSystemLogger.csproj",
+        "packagesPath": "C:\\Users\\redap\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Console Apps\\FileSystemLogger\\FileSystemLogger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\redap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://adgeohq.pkgs.visualstudio.com/_packaging/AdGeo.Common/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-commerce-packages/api/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

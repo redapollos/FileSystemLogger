@@ -1,0 +1,12 @@
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\bin\Debug\netcoreapp2.2\FileSystemLogger.deps.json
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\bin\Debug\netcoreapp2.2\FileSystemLogger.runtimeconfig.json
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\bin\Debug\netcoreapp2.2\FileSystemLogger.runtimeconfig.dev.json
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\bin\Debug\netcoreapp2.2\FileSystemLogger.dll
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\obj\Debug\netcoreapp2.2\FileSystemLogger.csprojAssemblyReference.cache
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\obj\Debug\netcoreapp2.2\FileSystemLogger.csproj.CoreCompileInputs.cache
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\obj\Debug\netcoreapp2.2\FileSystemLogger.AssemblyInfoInputs.cache
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\obj\Debug\netcoreapp2.2\FileSystemLogger.AssemblyInfo.cs
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\bin\Debug\netcoreapp2.2\FileSystemLogger.pdb
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\obj\Debug\netcoreapp2.2\FileSystemLogger.dll
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\obj\Debug\netcoreapp2.2\FileSystemLogger.pdb
+D:\projects\Console Apps\FileSystemLogger\FileSystemLogger\bin\Debug\netcoreapp2.2\appsettings.json
